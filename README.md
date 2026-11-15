@@ -1,16 +1,15 @@
-## Hi there 👋
+# Cristian Gómez Daza ✈️🚀
 
-<!--
-**CristianGDA/CristianGDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. in Aerospace Engineering**	
 
-Here are some ideas to get you started:
+**Flight Dynamics modeling and simulation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+I am an Aeronautical Engineer who enjoys building aircraft flight dynamics models and translating them into functional code using Python and MATLAB/Simulink to analyze aircraft behavior, flight stability, and system performance. 
+
+Here you can find the project I’ve been working on.
+
+
+| Project | Description | Status |
+| --- | --- | --- |
+| Nonlinear 6DoF trim, linearization and flying qualities assessment for the GARTEUR RCAM | Analytical flight dynamics script for the twin engine Research Civil Aircraft Model (RCAM), which was developed by the Group for Aeronautical Research and Technology in Europe (GARTEUR) | Working on it |
